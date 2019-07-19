@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4894be5e.chunk.css",
-    "main.js": "/static/js/main.1ca11110.chunk.js",
-    "main.js.map": "/static/js/main.1ca11110.chunk.js.map",
+    "main.css": "/static/css/main.e6fa33f1.chunk.css",
+    "main.js": "/static/js/main.0bf7548e.chunk.js",
+    "main.js.map": "/static/js/main.0bf7548e.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
-    "static/js/2.f400c66e.chunk.js": "/static/js/2.f400c66e.chunk.js",
-    "static/js/2.f400c66e.chunk.js.map": "/static/js/2.f400c66e.chunk.js.map",
+    "static/js/2.3310f33a.chunk.js": "/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f17ff67d3cf8b752df6575f4ce261df4.js": "/precache-manifest.f17ff67d3cf8b752df6575f4ce261df4.js",
+    "precache-manifest.38278fa1cf6d810b8e8d1c39ccd2fc4f.js": "/precache-manifest.38278fa1cf6d810b8e8d1c39ccd2fc4f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.4894be5e.chunk.css.map": "/static/css/main.4894be5e.chunk.css.map",
-    "static/media/index.css": "/static/media/GeosansLight.329ee3c3.woff",
-    "static/media/isan-logo.png": "/static/media/isan-logo.563fa847.png"
+    "static/css/main.e6fa33f1.chunk.css.map": "/static/css/main.e6fa33f1.chunk.css.map",
+    "static/media/index.css": "/static/media/GeosansLight.329ee3c3.woff"
   }
 }
